@@ -3,7 +3,7 @@
 Welcome to the python-ML projects repository! This repository contains various machine learning projects implemented using Python. Each project demonstrates different aspects of machine learning, from data scraping to predictive modeling.
 
 # Table of Contents
-<h3>Projects</h3>
+Projects:
 - Amazon Web Scraper
 - Heart Disease Prediction Model
 - Stock Predictor for India
