@@ -7,18 +7,13 @@ Welcome to the python-ML projects repository! This repository contains various m
 <h2>Amazon Web Scraper</h2>
 <h2>Heart Disease Prediction Model</h2>
 <h2>Stock Predictor for India</h2>
-Getting Started
-Dependencies
-Usage
-Contributing
-License
-# Projects
+
 # Amazon Web Scraper
 File: Amazon_Web_Scraper.ipynb
 
 This project demonstrates web scraping techniques using Python. The notebook includes:
 
-Scraping product data from Amazon India.
+Scraping product data from Amazon India
 Utilizing BeautifulSoup for HTML parsing.
 Storing scraped data into CSV files for further analysis.
 # Heart Disease Prediction Model
