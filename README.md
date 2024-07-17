@@ -11,11 +11,11 @@ Welcome to the python-ML projects repository! This repository contains various m
 # Amazon Web Scraper
 File: Amazon_Web_Scraper.ipynb
 
-This project demonstrates web scraping techniques using Python. The notebook includes:
+- This project demonstrates web scraping techniques using Python. The notebook includes:
 
-Scraping product data from Amazon India
-Utilizing BeautifulSoup for HTML parsing.
-Storing scraped data into CSV files for further analysis.
+- Scraping product data from Amazon India
+- Utilizing BeautifulSoup for HTML parsing.
+- Storing scraped data into CSV files for further analysis.
 # Heart Disease Prediction Model
 File: HeartDiseaseModel.ipynb
 
